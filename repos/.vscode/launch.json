@@ -5,7 +5,7 @@
       "type": "pwa-chrome",
       "request": "launch",
       "name": "Launch login.html",
-      "file": "${workspaceFolder}/3Ejercicio/loops.html"
+      "file": "${workspaceFolder}/4Ejercicio/switch.html"
     }
   ]
 }
