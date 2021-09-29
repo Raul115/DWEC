@@ -5,14 +5,14 @@ if (input == "admin") {
     if (pass == "TheMaster") {
         alert("Welcome!")
     }
-    else if (pass == null) {
+    else if (pass == null || pass == "") {
         alert("Canceled")
     }
     else {
         alert("Wrong password")
     }
 }
-else if (input == null) {
+else if (input == null || input == "") {
     alert("Canceled")
 }
 else {
